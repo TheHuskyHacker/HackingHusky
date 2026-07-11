@@ -10,7 +10,7 @@
 -  LinkedIn: https://www.linkedin.com/in/aaron-ashley-gaddis-48b411241/
 -  Blog: [@TheHuskyHacker](https://husky-hacker-read.com)
 -  Website: https://hacking-husky.link/
--  Portfolio site: [https://husky-command-hub.base44.app/home](https://thehuskyhacker.com/)
+-  Portfolio site: [https://thehuskyhacker.com/](https://thehuskyhacker.com/)
 
 ---
 
