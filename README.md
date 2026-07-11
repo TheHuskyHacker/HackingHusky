@@ -8,7 +8,7 @@
 -  Learning: Offensive security fundamentals, adversary tactics & techniques, vulnerability discovery, exploitation methodology, post‑exploitation workflows, and professional pentest documentation/reporting.
 -  YouTube: [@TheHuskeyHacker](https://www.youtube.com/@TheHuskeyHacker)
 -  LinkedIn: https://www.linkedin.com/in/aaron-ashley-gaddis-48b411241/
--  Blog: [@TheHuskyHacker](https://medium.com/@TheHuskyHacker)
+-  Blog: [@TheHuskyHacker](https://husky-hacker-read.com)
 -  Website: https://hacking-husky.link/
 -  Portfolio site: [https://husky-command-hub.base44.app/home](https://thehuskyhacker.com/)
 
@@ -58,5 +58,5 @@ https://github.com/HackingHusky/Certifications -- all certs that I have earned a
 ## Reach Me
 - LinkedIn: [in/aaron-ashley-48b411241](https://www.linkedin.com/in/aaron-ashley-48b411241/)
 - YouTube: [@TheHuskeyHacker](https://www.youtube.com/@TheHuskeyHacker)
-- Medium Blog: https://medium.com/@TheHuskyHacker
+- Blog: [@TheHuskyNewsletter](https://husky-hacker-read.com)
  
