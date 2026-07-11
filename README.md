@@ -51,7 +51,7 @@
 ---
 
 ## Certifications & Learning
-https://github.com/HackingHusky/Certifications -- all certs that I have earned are in this repo
+https://github.com/TheHuskyHacker/Certifications -- all certs that I have earned are in this repo
 
 ---
 
