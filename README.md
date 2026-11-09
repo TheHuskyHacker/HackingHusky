@@ -1,5 +1,6 @@
 # Hi, I’m Aaron Ashley A.K.A The Husky Hacker
-<img width="2048" height="1143" alt="Husky Hacker Banner 2048x1143" src="https://github.com/user-attachments/assets/6cf02e5d-f48f-4706-b726-b2654ffab3a3" />
+<img width="2016" height="1344" alt="Husky Hacker in His Lair" src="https://github.com/user-attachments/assets/5aaaff74-a295-488d-9a08-2fcc27f58698" />
+
 
 ## Developing offensive security skills through red‑team style labs—covering reconnaissance, vulnerability discovery, exploit development basics, lateral movement, persistence, and detailed pentest documentation.
 
